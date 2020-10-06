@@ -1,0 +1,331 @@
+/* blue */
+--wds-v2-blue-900 {
+    color: #000080;
+}
+
+--wds-v2-blue-800 {
+    color: #01328A;
+}
+
+--wds-v2-blue-700 {
+    color: #024E9A;
+}
+
+--wds-v2-blue-600 {
+    color: #0465B0;
+}
+
+--wds-v2-blue-500 {
+    color: #067ACC;
+}
+
+--wds-v2-blue-400 {
+    color: #1D9BF0;
+}
+
+--wds-v2-blue-300 {
+    color: #35ABF0;
+}
+
+--wds-v2-blue-200 {
+    color: #71C9F8;
+}
+
+--wds-v2-blue-100 {
+    color: #97E3FF;
+}
+
+--wds-v2-blue-50 {
+    color: #EAF5FD;
+}
+
+/* gray */
+--wds-v2-gray-900 {
+    color: #14171A;
+}
+
+--wds-v2-gray-800 {
+    color: #1D2B35;
+}
+
+--wds-v2-gray-700 {
+    color: #314351;
+}
+
+--wds-v2-gray-600 {
+    color: #485D6C;
+}
+
+--wds-v2-gray-500 {
+    color: #637888;
+}
+
+--wds-v2-gray-400 {
+    color: #8196A7;
+}
+
+--wds-v2-gray-300 {
+    color: #B6C4CE;
+}
+
+--wds-v2-gray-200 {
+    color: #D3DCE3;
+}
+
+--wds-v2-gray-100 {
+    color: #E8EFF3;
+}
+
+--wds-v2-gray-50 {
+    color: #F3F7FA;
+}
+
+--wds-v2-gray-0 {
+    color: #FFFFFF;
+}
+
+/* pink */
+--wds-v2-pink-900 {
+    color: #5E002E;
+}
+
+--wds-v2-pink-800 {
+    color: #730032;
+}
+
+--wds-v2-pink-700 {
+    color: #8E0038;
+}
+
+--wds-v2-pink-600 {
+    color: #B30944;
+}
+
+--wds-v2-pink-500 {
+    color: #E0245E;
+}
+
+--wds-v2-pink-400 {
+    color: #F35C84;
+}
+
+--wds-v2-pink-300 {
+    color: #F6809A;
+}
+
+--wds-v2-pink-200 {
+    color: #FFB8C2;
+}
+
+--wds-v2-pink-100 {
+    color: #FFD7E0;
+}
+
+--wds-v2-pink-50 {
+    color: #FFE4E9;
+}
+
+/* orange */
+--wds-v2-orange-900 {
+    color: #780800;
+}
+
+--wds-v2-orange-800 {
+    color: #840E00;
+}
+
+--wds-v2-orange-700 {
+    color: #961700;
+}
+
+--wds-v2-orange-600 {
+    color: #B02200;
+}
+
+--wds-v2-orange-500 {
+    color: #DB3706;
+}
+
+--wds-v2-orange-400 {
+    color: #F45D22;
+}
+
+--wds-v2-orange-300 {
+    color: #FF8D57;
+}
+
+--wds-v2-orange-200 {
+    color: #FFBE78;
+}
+
+--wds-v2-orange-100 {
+    color: #FFDFB1;
+}
+
+--wds-v2-orange-50 {
+    color: #FFF2DB;
+}
+
+/* yellow */
+--wds-v2-yellow-900 {
+    color: #532600;
+}
+
+--wds-v2-yellow-800 {
+    color: #6C3200;
+}
+
+--wds-v2-yellow-700 {
+    color: #843F00;
+}
+
+--wds-v2-yellow-600 {
+    color: #9D4E00;
+}
+
+--wds-v2-yellow-500 {
+    color: #B36200;
+}
+
+--wds-v2-yellow-400 {
+    color: #F98E00;
+}
+
+--wds-v2-yellow-300 {
+    color: #FFAD1F;
+}
+
+--wds-v2-yellow-200 {
+    color: #FFD03F;
+}
+
+--wds-v2-yellow-100 {
+    color: #FFE76E;
+}
+
+--wds-v2-yellow-50 {
+    color: #FFFDDE;
+}
+
+/* green */
+--wds-v2-green-900 {
+    color: #003B1B;
+}
+
+--wds-v2-green-800 {
+    color: #004E22;
+}
+
+--wds-v2-green-700 {
+    color: #016128;
+}
+
+--wds-v2-green-600 {
+    color: #02742D;
+}
+
+--wds-v2-green-500 {
+    color: #03872F;
+}
+
+--wds-v2-green-400 {
+    color: #0A9E3A;
+}
+
+--wds-v2-green-300 {
+    color: #17BF63;
+}
+
+--wds-v2-green-200 {
+    color: #68E090;
+}
+
+--wds-v2-green-100 {
+    color: #A5F2AA;
+}
+
+--wds-v2-green-50 {
+    color: #E5FAE3;
+}
+
+/* purple */
+--wds-v2-purple-900 {
+    color: #340061;
+}
+
+--wds-v2-purple-800 {
+    color: #410084;
+}
+
+--wds-v2-purple-700 {
+    color: #4F0299;
+}
+
+--wds-v2-purple-600 {
+    color: #6F33C4;
+}
+
+--wds-v2-purple-500 {
+    color: #8C5BDC;
+}
+
+--wds-v2-purple-400 {
+    color: #A37CED;
+}
+
+--wds-v2-purple-300 {
+    color: #C7B4FA;
+}
+
+--wds-v2-purple-200 {
+    color: #DBCAFB;
+}
+
+--wds-v2-purple-100 {
+    color: #EAE0FE;
+}
+
+--wds-v2-purple-50 {
+    color: #F4EEFF;
+}
+
+/* red */
+--wds-v2-red-900 {
+    color: #590000;
+}
+
+--wds-v2-red-800 {
+    color: #820100;
+}
+
+--wds-v2-red-700 {
+    color: #AA0200;
+}
+
+--wds-v2-red-600 {
+    color: #CD0400;
+}
+
+--wds-v2-red-500 {
+    color: #EA1410;
+}
+
+--wds-v2-red-400 {
+    color: #F6332B;
+}
+
+--wds-v2-red-300 {
+    color: #FD5A50;
+}
+
+--wds-v2-red-200 {
+    color: #FF877D;
+}
+
+--wds-v2-red-100 {
+    color: #FFB8B1;
+}
+
+--wds-v2-red-50 {
+    color: #FFE7E4;
+}

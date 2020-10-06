@@ -1,0 +1,206 @@
+
+/* v2 spacers - L Breakpoint */
+
+@media only screen 
+and (min-width: 1024px) {  
+
+      .s900 {
+        height: 160px;
+      }
+      
+      .s800 {
+        height: 96px;
+      }
+      
+      .s700 {
+        height: 64px;
+      }
+      
+      .s600 {
+        height: 48px;
+      }
+      
+      .s500 {
+        height: 32px;
+      }
+      
+      .s400 {
+        height: 24px;
+      }
+      
+      .s300 {
+        height: 16px;
+      }
+      
+      .s200 {
+        height: 12px;
+      }
+      
+      .s100 {
+        height: 8px;
+      }
+
+      .s50 {
+        height: 4px;
+      }
+
+      .nested {
+        height: 0px;
+      }
+
+    }
+
+/* v2 spacers - M Breakpoint */
+
+@media only screen 
+and (max-width: 1023px)
+and (min-width: 600px) {
+
+    .s900 {
+        height: 96px;
+      }
+      
+      .s800 {
+        height: 64px;
+      }
+      
+      .s700 {
+        height: 48px;
+      }
+      
+      .s600 {
+        height: 32px;
+      }
+      
+      .s500 {
+        height: 32px;
+      }
+      
+      .s400 {
+        height: 24px;
+      }
+      
+      .s300 {
+        height: 16px;
+      }
+      
+      .s200 {
+        height: 12px;
+      }
+      
+      .s100 {
+        height: 8px;
+      }
+
+      .s50 {
+        height: 4px;
+      }
+
+      .nested {
+        height: 0px;
+      }
+
+}  
+
+/* v2 spacers - S Breakpoint */
+
+@media only screen 
+and (max-width: 599px)
+and (min-width: 480px) {
+
+    .s900 {
+        height: 64px;
+      }
+      
+      .s800 {
+        height: 48px;
+      }
+      
+      .s700 {
+        height: 32px;
+      }
+      
+      .s600 {
+        height: 24px;
+      }
+      
+      .s500 {
+        height: 24px;
+      }
+      
+      .s400 {
+        height: 16px;
+      }
+      
+      .s300 {
+        height: 12px;
+      }
+      
+      .s200 {
+        height: 8px;
+      }
+      
+      .s100 {
+        height: 4px;
+      }
+
+      .s50 {
+        height: 4px;
+      }
+
+      .nested {
+        height: 0px;
+      }
+
+}  
+
+/* v2 spacers - XS Breakpoint */
+
+@media only screen 
+and (min-width: 479px) {
+
+    .s900 {
+        height: 64px;
+      }
+      
+      .s800 {
+        height: 48px;
+      }
+      
+      .s700 {
+        height: 32px;
+      }
+      
+      .s600 {
+        height: 24px;
+      }
+      
+      .s500 {
+        height: 24px;
+      }
+      
+      .s400 {
+        height: 12px;
+      }
+      
+      .s300 {
+        height: 8px;
+      }
+      
+      .s200 {
+        height: 4px;
+      }
+      
+      .s100 {
+        height: 4px;
+      }
+
+      .s50 {
+        height: 4px;
+      }
+
+      .nested {
+        height: 0px;
+      }
+
+}  
